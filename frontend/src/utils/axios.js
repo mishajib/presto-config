@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL: "https://prestoconfig.mi-shajib.com/api",
+    baseURL: "https://localhost:5000/api",
 });
